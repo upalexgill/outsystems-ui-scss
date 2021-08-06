@@ -1,5 +1,5 @@
-#FORKED
-##Original version [mediaweb-pt](https://github.com/mediaweb-pt/outsystems-ui-scss)
+# FORKED
+## Original version [mediaweb-pt](https://github.com/mediaweb-pt/outsystems-ui-scss)
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue)
 
@@ -11,7 +11,7 @@
   - Minify (probably redundant for OutSystems)
   - Eslint (stand config)
 
-####Usage
+#### Usage
 
 - To get task manager up and running, please [See below](https://github.com/mediaweb-pt/outsystems-ui-scss#how-to-install)
 - Install Chrome Extension [Requestly](https://chrome.google.com/webstore/detail/requestly-redirect-url-mo/mdnleldcmiljblolnjhpnblkcekpdkpa?hl=en)
